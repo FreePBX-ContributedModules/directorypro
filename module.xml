@@ -1,0 +1,31 @@
+<module>
+	<rawname>directorypro</rawname>
+	<name>Directory Pro</name>
+	<version>2.11.2</version>
+	<publisher>Sangoma Technologies Corporation</publisher>
+	<license>AGPLv3</license>
+	<licenselink>http://www.gnu.org/licenses/agpl-3.0.txt</licenselink>
+	<description>This module builds on the standard PBX module and allows you to enable speech recognition on your directories. You can then use the directory in conjunction with other modules like the IVR that allow users to press 1 for the directory. Directory Pro will then prompt the caller to enter or say the parties name. Please note that for the speech recognition portion to work you need to either have local LumenVox speech Ports installed or subscribed to LumenVox "Software as a Service" hosted speech ports.</description>
+	<repo>contributed</repo>
+	<type>setup</type>
+	<category>Applications</category>
+	<depends>
+    <version>2.10</version>
+	</depends>
+	<changelog>
+		*2.11.2* Remove en_US Translations
+		*2.11.1* Open source
+		*2.11.0.1* Sales Cleanup
+		*2.11.0.0* Bump for 2.11
+		*2.10.0.28* Correct dialplan causing vm greating not to be played
+		*2.10.0.27* Packaging of ver 2.10.0.27
+		*2.10.0.26* fix timeout issues
+		*2.10.0.25* Add unlicensed information
+		*2.10.0.24*
+	</changelog>
+	<supported>
+		<version>2.10</version>
+	</supported>
+	<location>release/2.11/directorypro-2.11.0.0.tgz</location>
+	<md5sum>fc74c33993d3ce20047f2437f292cfcc</md5sum>
+</module>

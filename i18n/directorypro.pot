@@ -1,0 +1,126 @@
+# This file is part of FreePBX.
+#
+# For licensing information, please see the file named LICENSE located in the module directory
+#
+# FreePBX language template for directorypro
+# Copyright (C) 2008-2015 Sangoma, Inc.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-12 13:41-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid ""
+"Allow this directory to use speech recognition. PLease note: using TTS as a "
+"Name Announcement is not currently available in the Speech Directory, and "
+"will default to spelling the entry."
+msgstr ""
+
+msgid "Announce Extension"
+msgstr ""
+
+msgid "Announcement"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid ""
+"COMMERCIAL MODULE REQUIRES A LICENSE FOR IT TO FUNCTION.  Please visit www."
+"schmoozecom.com/oss.php The Directory Pro module is an extension to the \n"
+"\texisting directory found in FreePBX. This module builds on the standard "
+"FreePBX module and allows you to enable speech recognition on your "
+"directories. You can then use the \n"
+"\tdirectory in conjunction with other modules like the IVR that allow users "
+"to press 1 for the directory. Directory Pro will then prompt the caller to "
+"enter or say the parties \n"
+"\tname. Please note that for the speech recognition portion to work you need "
+"to either have local LumenVox speech Ports installed or subscribed to "
+"LumenVox \"Software as a \n"
+"\tService\" hosted speech ports."
+msgstr ""
+
+msgid "Can not create Directory Pro table: "
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid ""
+"Destination to send the call to after Invalid Recording is played. You "
+"should consider setting the DMTF version of this directory to use in case "
+"the speech version doesn't work."
+msgstr ""
+
+msgid "Directory"
+msgstr ""
+
+msgid "Directory Pro"
+msgstr ""
+
+msgid "Directory Pro Options (SPEECH)"
+msgstr ""
+
+msgid "Greeting to be played on entry to the  speech directory"
+msgstr ""
+
+msgid "Invalid Destination"
+msgstr ""
+
+msgid "Invalid Recording"
+msgstr ""
+
+msgid "Invalid Retries"
+msgstr ""
+
+msgid "Invalid Retry Recording"
+msgstr ""
+
+msgid ""
+"Number of times to retry when receiving an invalid/unmatched response from "
+"the caller"
+msgstr ""
+
+msgid ""
+"Prompt to be played before sending the caller to an alternate destination "
+"due to receiving the maximum amount of invalid/unmatched responses (as "
+"determined by Invalid Retries)"
+msgstr ""
+
+msgid ""
+"Prompt to be played when an invalid/unmatched response is received, before "
+"prompting the caller to try again"
+msgstr ""
+
+msgid "Removing grammar file "
+msgstr ""
+
+msgid "Removing grammar files"
+msgstr ""
+
+msgid "Speech Enabled"
+msgstr ""
+
+msgid ""
+"When checked, the name tag of the matched extension will be announced prior "
+"to the transfer"
+msgstr ""
+
+msgid "cannot add field pro_retivr to table directory_entries \n"
+msgstr ""
+
+msgid "dropping directorypro_details, directorypro_entries.."
+msgstr ""
+
+msgid "ok"
+msgstr ""
+
+msgid "pro_retivr added to table directory_entries"
+msgstr ""
